@@ -176,14 +176,14 @@ button:hover{
 	background-color: #333;
 	position: fixed;
 	width: 100%;
+	z-index: 100;
 }
 
 .header{
 	width: 100%;
-	z-index: 100;
+	z-index: 2;
 	top: 0;
-	height: 80px;
-	position: absolute;
+	height: 80vh;
 }
 
 .header-content{
